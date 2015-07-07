@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Monokai-Sublime" version="124" parent_scheme="Default">
+<scheme name="Monokai-Sublime" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -242,9 +241,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="6d3dfe" />
@@ -255,8 +251,8 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f72671" />
-        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="f72671" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -721,9 +717,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="PHP_MARKUP_ID">
-      <value />
-    </option>
     <option name="PHP_NUMBER">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
@@ -990,37 +983,10 @@
         <option name="BACKGROUND" value="ff0000" />
       </value>
     </option>
-    <option name="SCOPE_KEY_All">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Changed Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_CustomDev">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Default">
-      <value />
-    </option>
     <option name="SCOPE_KEY_Install Profile">
       <value>
         <option name="BACKGROUND" value="ff0000" />
       </value>
-    </option>
-    <option name="SCOPE_KEY_Non-Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Problems">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Tests">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_features">
-      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -1224,8 +1190,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -1272,9 +1238,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="XML_TAG_DATA">
-      <value />
-    </option>
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f72671" />
@@ -1317,4 +1280,3 @@
     </option>
   </attributes>
 </scheme>
-
